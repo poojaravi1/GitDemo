@@ -7,3 +7,4 @@ name = 'Pooja Ravi'
 #print("My name is ", name) 
 
 print("{} {}".format("My name is ", name))
+print("{} {}".format("Value of a is: ", a))
