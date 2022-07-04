@@ -1,4 +1,9 @@
 values = [0, 1, "Pooja Ravi", 4.0, 'hi']
+names = ["pooj", "darsh", "puv", "sri", "ravi"]
+
+for i in names:
+    print(i)
+
 
 print(values[0])  #0
 print(values[2])  #Pooja Ravi
